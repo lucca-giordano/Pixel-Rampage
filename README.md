@@ -29,4 +29,4 @@ Sistemas e subsistemas:
         5. Cadência
   - Ordas
     - Inimigos ficam mais fortes
-    - Ordas bônus aleatórias
+    - Ordas especiais aleatórias
